@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="BabySteps">
+    <file>dollar.png</file>
+    <file>icon.png</file>
+  </qresource>
+</RCC>
